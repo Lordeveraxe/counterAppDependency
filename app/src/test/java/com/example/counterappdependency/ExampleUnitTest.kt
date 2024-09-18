@@ -1,4 +1,4 @@
-package com.example.hiltgradleimplementation
+package com.example.counterappdependency
 
 import org.junit.Test
 

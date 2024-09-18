@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Hilt Gradle Implementation"
+rootProject.name = "counterAppDependency"
 include(":app")
  

@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.hiltgradleimplementation"
+    namespace = "com.example.counterappdependency"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.hiltgradleimplementation"
+        applicationId = "com.example.counterappdependency"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

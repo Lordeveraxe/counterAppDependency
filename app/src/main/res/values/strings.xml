@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Hilt Gradle Implementation</string>
+    <string name="app_name">counterAppDependency</string>
+    <string name="count">0</string>
+    <string name="reset">Reset</string>
 </resources>
